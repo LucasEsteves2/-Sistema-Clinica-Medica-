@@ -12,8 +12,8 @@ Sistema para o gerenciamento de uma clínica. A seguir é apresentado as princip
 - foi testado em Linux/Mac;
 
 # Desenvolvimento:
-
-- Desenvolvido Para avaliação de Prj - FAETERJ
+- Desenvolvedor: Lucas Esteves
+- Desenvolvido Para avaliação de Prj - FAETERJ 
 - Local
   - Eclipse
   - JRE 1.18.0
@@ -46,7 +46,7 @@ Sistema para o gerenciamento de uma clínica. A seguir é apresentado as princip
 
 <br/>
 
-[![Login](https://github.com/luqui2/Sistema-Medico-VacinaCovid/blob/main/Screens/login.png)](https://github.com/luqui2/Sistema-Medico-VacinaCovid/blob/main/Screens/login.png)
+[![Login](https://github.com/luqui2/Sistema-Clinica-Medicaa/blob/main/Screens/login.png)](https://github.com/luqui2/Sistema-Clinica-Medicaa/blob/main/Screens/login.png)
 <br/><br/>
 - **Agenda:** é possível agendar consultas, além de realizar o agendamento recorrente - diariamente, semanalmente, quinzenalmente, mensalmente e anualmente;
 <br/><br/>
@@ -62,11 +62,11 @@ Sistema para o gerenciamento de uma clínica. A seguir é apresentado as princip
 
 <br/><br/>
 
-[![Agenda](https://github.com/luqui2/Sistema-Medico-VacinaCovid/blob/main/Screens/agenda.png)](https://github.com/luqui2/Sistema-Medico-VacinaCovid/blob/main/Screens/agenda.png)
+[![Agenda](https://github.com/luqui2/Sistema-Clinica-Medicaa/blob/main/Screens/agenda.png)](https://github.com/luqui2/Sistema-Clinica-Medicaa/blob/main/Screens/agenda.png)
 <br/><br/>  
-[![Novo agendamento](https://github.com/luqui2/Sistema-Medico-VacinaCovid/blob/main/Screens/agenda2.png)](https://github.com/luqui2/Sistema-Medico-VacinaCovid/blob/main/Screens/agenda2.png)
+[![Novo agendamento](https://github.com/luqui2/Sistema-Clinica-Medicaa/blob/main/Screens/agenda2.png)](https://github.com/luqui2/Sistema-Clinica-Medicaa/blob/main/Screens/agenda2.png)
 <br/><br/>  
-[![Editar agendamento](https://github.com/luqui2/Sistema-Medico-VacinaCovid/blob/main/Screens/AGENDA3.png)](https://github.com/luqui2/Sistema-Medico-VacinaCovid/blob/main/Screens/AGENDA3.png)
+[![Editar agendamento](https://github.com/luqui2/Sistema-Clinica-Medicaa/blob/main/Screens/AGENDA3.png)](https://github.com/luqui2/Sistema-Clinica-Medicaa/blob/main/Screens/AGENDA3.png)
 
 
 <br/><br/>  
@@ -83,9 +83,9 @@ Sistema para o gerenciamento de uma clínica. A seguir é apresentado as princip
 
 <br/><br/>
 
-[![Lista de Pacientes](https://github.com/luqui2/Sistema-Medico-VacinaCovid/blob/main/Screens/PACIENTE.png)](https://github.com/luqui2/Sistema-Medico-VacinaCovid/blob/main/Screens/PACIENTE.png)
+[![Lista de Pacientes](https://github.com/luqui2/Sistema-Clinica-Medicaa/blob/main/Screens/PACIENTE.png)](https://github.com/luqui2/Sistema-Clinica-Medicaa/blob/main/Screens/PACIENTE.png)
 <br/><br/>  
-[![Novo paciente](https://github.com/luqui2/Sistema-Medico-VacinaCovid/blob/main/Screens/paciente2.png)](https://github.com/luqui2/Sistema-Medico-VacinaCovid/blob/main/Screens/paciente2.png)
+[![Novo paciente](https://github.com/luqui2/Sistema-Clinica-Medicaa/blob/main/Screens/paciente2.png)](https://github.com/luqui2/Sistema-Clinica-Medicaa/blob/main/Screens/paciente2.png)
 <br/><br/>  
 
 
@@ -101,8 +101,8 @@ Sistema para o gerenciamento de uma clínica. A seguir é apresentado as princip
 
 <br/><br/>
 
-[![Lista de Profissionais](https://github.com/luqui2/Sistema-Medico-VacinaCovid/blob/main/Screens/PROFISSIONAL.png))](https://github.com/luqui2/Sistema-Medico-VacinaCovid/blob/main/Screens/PROFISSIONAL.png)
-[![Lista de especialidades](https://github.com/luqui2/Sistema-Medico-VacinaCovid/blob/main/Screens/PROFISSIONAL2.png)](https://github.com/luqui2/Sistema-Medico-VacinaCovid/blob/main/Screens/PROFISSIONAL2.png)
+[![Lista de Profissionais](https://github.com/luqui2/Sistema-Clinica-Medicaa/blob/main/Screens/PROFISSIONAL.png))](https://github.com/luqui2/Sistema-Clinica-Medicaa/blob/main/Screens/PROFISSIONAL.png)
+[![Lista de especialidades](https://github.com/luqui2/Sistema-Clinica-Medicaa/blob/main/Screens/PROFISSIONAL2.png)](https://github.com/luqui2/Sistema-Clinica-Medicaa/blob/main/Screens/PROFISSIONAL2.png)
 
 <br/><br/>
 
