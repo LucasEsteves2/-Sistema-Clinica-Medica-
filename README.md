@@ -118,5 +118,5 @@ Sistema para o gerenciamento de uma clínica. A seguir é apresentado as princip
 ## Testes
 
 - A aplicação já foi instalada em computadores com Windows 7 de 32 e 64 bits;
-- Já foi instalada em um computador Windows 10 de 64 bits;
-- Já foi instalada em um computador LINUX;
+- A aplicação Já foi instalada em um computador Windows 10 de 64 bits;
+- A aplicação Já foi instalada em um computador LINUX;
