@@ -8,6 +8,8 @@ Sistema para o gerenciamento de uma clínica. A seguir é apresentado as princip
 - Gerenciamento de Procedimentos;
 
 **ATENÇÃO**
+- Banco de dados desenvolvido através do framework PostgreSQL e hospedado na nuvem através do site Heroku
+- Script do banco disponibilizado no arquivo "banco_de_dados"(basta copiar o script e criar o banco através do framework desejado)
 - Aplicação desenvolvida em um computador Windows;
 - foi testado em Linux/Mac;
 
