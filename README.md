@@ -146,6 +146,26 @@
 [![Lista de Profissionais](https://github.com/luqui2/Sistema-Clinica-Medicaa./blob/main/Screens/gifs/profissional.gif)](https://github.com/luqui2/Sistema-Clinica-Medicaa./blob/main/Screens/gifs/profissional.gif)
 
 
+ <p>
+    <h2 align="center">
+   Extras 💡
+  </h2>
+  </p> 
+
+- **API Para validação de CPF**
+
+
+<div align="center">
+  <img width="400px" src="https://github.com/luqui2/Sistema-Clinica-Medicaa./blob/main/Screens/Api cpf2.gif">
+</div>
+<br>
+
+- **API Para envio de e-mail**
+
+<div align="center">
+  <img width="400px" src="https://github.com/luqui2/-Sistema-Clinica-Medica-/blob/main/Screens/gifs/api%20e-mail.gif">
+</div>
+<br>
 
 ## Tecnologias
 
