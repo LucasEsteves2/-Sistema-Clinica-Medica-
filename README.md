@@ -41,7 +41,6 @@
       </p>
   </details>
 
-- *Armazenamento dos dados feito com banco de dados PostgreSQL e Hospedado no site HEROKU*
 
 ##     
 
@@ -52,7 +51,8 @@
   - Sistema desenvolvido em Java swing
   - Banco de Dados: PostgreSQL
   - IDE: Eclipse - JRE 1.18.0
- 
+ - *Armazenamento dos dados feito com banco de dados PostgreSQL e Hospedado no site HEROKU*
+
  
 <br> 
 
