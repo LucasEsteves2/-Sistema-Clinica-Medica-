@@ -167,16 +167,18 @@
 ## Instalação
 
 - Computador com Windows 7 ou superior (32/64 bits);
-- Banco de Dados PostgreSQL instalado localmente na máquina.(utilizei o HEROKU para subir o banco)
+- Banco de Dados de sua preferencia (utilizei o PostgreSQL para criar o banco e hospedei no site heroku)
+- *Script para criação do banco disponibilizado no arquivo "banco_de_dados"(basta copiar o script e criar o banco através do framework desejado)*
 - JRE 1.18.0 (Windows 32/64 bits);
 
 
 
-- Sobre o Instalador
-  - Apenas é executado em computadores com **Windows 7 ou superior (32/64 bits)**;
+- Criando o banco de dados
+  - Abra o arquivo **"BANCODEDADOS.SQL"** copie o script e cole em um SGBD de sua preferencia
 
 
 - Para alterar as configurações do banco de dados:
+
   - Abra a aplicação em uma IDE de desenvolvimento 
   - Acesse o arquivo **src/banco/Conexão** e altere as credenciais do banco de dados;
   - Execute a aplicação para recriar o **.jar**;
