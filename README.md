@@ -105,7 +105,7 @@
 
 
 
-  ## <img height="45px" align="center" src="https://github.com/luqui2/Sistema-para-Viagens-/blob/main/src/imagens/foguete.gif">   <strong>Pacientes</strong>: 
+  ## <img height="45px" align="center" src="https://github.com/luqui2/Sistema-para-Viagens-/blob/main/src/imagens/foguete.gif">   <strong>Paciente</strong>: 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**cadastro e edição dos dados de um paciente, além da listagem**  
 
 
