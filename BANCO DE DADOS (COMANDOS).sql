@@ -53,16 +53,6 @@ REFERENCES Paciente(idPaciente)
 );
 
 
-select agenda.horario,paciente.nome, medico.nome, agenda.procedimento, agenda.data from paciente,medico,agenda
-
-where idpaciente=Id_paciente and idMedico = id_medico;
-
-
-
-
-
-select login from administrador where =?
-
 insert into administrador (login,senha) values ("admin","admin");
 
 
