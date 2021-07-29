@@ -12,7 +12,7 @@
 
  <p>
     <h2 align="center">
-  Sistema para Clínica Medica (ClinicaNator)
+ Sistema para Clínica Medica  (ClinicaNator) 👨‍⚕️🏥
   </h2>
   </p> 
   </br>
