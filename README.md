@@ -146,6 +146,23 @@
 [![Lista de Profissionais](https://github.com/luqui2/Sistema-Clinica-Medicaa./blob/main/Screens/gifs/profissional.gif)](https://github.com/luqui2/Sistema-Clinica-Medicaa./blob/main/Screens/gifs/profissional.gif)
 
 
+
+## Tecnologias
+
+- Windows 8 64bits (utilizado no desenvolvimento da aplicação);
+- IDE Eclipse;
+- Sistema desenvolvido em JAVA com SWING;
+- Banco de dados PostgreSQL;
+- JRE 1.18.0;
+
+
+## Testes
+
+- A aplicação já foi instalada em computadores com Windows 7 de 32 e 64 bits;
+- A aplicação Já foi instalada em um computador Windows 10 de 64 bits;
+- A aplicação Já foi instalada em um computador linux/mac;
+
+
   
 ## Instalação
 
@@ -163,27 +180,6 @@
   - Abra a aplicação em uma IDE de desenvolvimento 
   - Acesse o arquivo **src/banco/Conexão** e altere as credenciais do banco de dados;
   - Execute a aplicação para recriar o **.jar**;
-  
-<br/><br/>
-
-
-
-## Tecnologias
-
-- Windows 8 64bits (utilizado no desenvolvimento da aplicação);
-- IDE Eclipse;
-- Sistema desenvolvido em JAVA com SWING;
-- Banco de dados PostgreSQL;
-- JRE 1.18.0;
-
-
-## Testes
-
-- A aplicação já foi instalada em computadores com Windows 7 de 32 e 64 bits;
-- A aplicação Já foi instalada em um computador Windows 10 de 64 bits;
-- A aplicaç
-
-
 
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;⬆️[**Voltar ao Topo**](#back-to-top)⬆️
