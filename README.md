@@ -97,13 +97,6 @@
 [![Novo agendamento](https://github.com/luqui2/Sistema-Clinica-Medicaa./blob/main/Screens/gifs/agenda2.gif)](https://github.com/luqui2/Sistema-Clinica-Medicaa./blob/main/Screens/gifs/agenda2.gif)
 <br/><br/>  
 
-##     
-
-
-<br/><br/>  
-
-
-
 
   ## <img height="45px" align="center" src="https://github.com/luqui2/Sistema-para-Viagens-/blob/main/src/imagens/foguete.gif">   <strong>Paciente</strong>: 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**cadastro e edição dos dados de um paciente, além da listagem**  
@@ -125,8 +118,6 @@
 [![Novo paciente](https://github.com/luqui2/Sistema-Clinica-Medicaa./blob/main/Screens/gifs/paciente2.gif)](https://github.com/luqui2/Sistema-Clinica-Medicaa./blob/main/Screens/gifs/paciente2.gif)
 <br/><br/>  
 
-##
-
 
 
 ## <img height="45px" align="center" src="https://github.com/luqui2/Sistema-para-Viagens-/blob/main/src/imagens/foguete.gif">   <strong>Profissional</strong>: 
@@ -145,7 +136,7 @@
 
 [![Lista de Profissionais](https://github.com/luqui2/Sistema-Clinica-Medicaa./blob/main/Screens/gifs/profissional.gif)](https://github.com/luqui2/Sistema-Clinica-Medicaa./blob/main/Screens/gifs/profissional.gif)
 
-
+<br>
  <p>
     <h2 align="center">
    Extras 💡
@@ -154,18 +145,18 @@
 
 - **API Para validação de CPF**
 
-
+<br>
 <div align="center">
   <img width="400px" src="https://github.com/luqui2/Sistema-Clinica-Medicaa./blob/main/Screens/Api cpf2.gif">
 </div>
-<br>
 
+<br/><br/>
 - **API Para envio de e-mail**
-
+<br/><br/>
 <div align="center">
   <img width="400px" src="https://github.com/luqui2/-Sistema-Clinica-Medica-/blob/main/Screens/gifs/api%20e-mail.gif">
 </div>
-<br>
+<br/><br/>
 
 ## Tecnologias
 
