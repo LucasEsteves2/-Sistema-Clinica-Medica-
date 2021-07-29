@@ -52,7 +52,7 @@
   - Sistema desenvolvido em Java swing
   - Banco de Dados: PostgreSQL
   - IDE: Eclipse - JRE 1.18.0
- - *Script para criação do banco disponibilizado no arquivo "banco_de_dados"(basta copiar o script e criar o banco através do framework desejado)*
+ 
  
 <br> 
 
