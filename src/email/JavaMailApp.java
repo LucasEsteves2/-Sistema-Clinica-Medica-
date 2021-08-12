@@ -14,7 +14,7 @@ public class JavaMailApp {
 
 	public void enviarEmail(String mensagem, String assunto, String email) {
 		Properties props = new Properties();
-		/** Par‚metros de conex„o com servidor Gmail */
+		/** Par√¢metros de conex√£o com servidor Gmail */
 		props.put("mail.smtp.host", "smtp.gmail.com");
 		props.put("mail.smtp.socketFactory.port", "465");
 		props.put("mail.smtp.socketFactory.class", "javax.net.ssl.SSLSocketFactory");
@@ -23,11 +23,11 @@ public class JavaMailApp {
 
 		Session session = Session.getDefaultInstance(props, new javax.mail.Authenticator() {
 			protected PasswordAuthentication getPasswordAuthentication() {
-				return new PasswordAuthentication("mentaanivia@gmail.com", "32358230");
+				return new PasswordAuthentication("mentaanivia@gmail.com", "senha");
 			}
 		});
 
-		/** Ativa Debug para sess„o */
+		/** Ativa Debug para sess√£o */
 		session.setDebug(true);
 
 		try {
@@ -36,13 +36,13 @@ public class JavaMailApp {
 			message.setFrom(new InternetAddress(email));
 			// Remetente
 
-			Address[] toUser = InternetAddress // Destinat·rio(s)
+			Address[] toUser = InternetAddress // Destinat√°rio(s)
 					.parse(email);
 
 			message.setRecipients(Message.RecipientType.TO, toUser);
 			message.setSubject(assunto);// Assunto
 			message.setText(mensagem);
-			/** MÈtodo para enviar a mensagem criada */
+			/** M√©todo para enviar a mensagem criada */
 			Transport.send(message);
 
 			System.out.println("Feito!!!");
