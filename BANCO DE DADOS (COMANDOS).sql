@@ -3,21 +3,17 @@ create table administrador(
 login varchar(100) primary key,
 senha varchar(100)
 
-	
-	
-	
 );
 
 create table Paciente(
 
 idPaciente serial primary key,
 nome varchar(100) ,
-cpf varchar(15) UNIQUE,
+cpf varchar(15) UNIQUE, 
 endereco varchar(100),
-Email varchar(100),
+Email varchar(100)
 
 );
-
 
 create table Medico(
 
@@ -32,20 +28,18 @@ sexo varchar(50)
 );
 
 
-
-
 create table Agenda(
-idAgenda serial primary key
-
+idAgenda serial primary key,
+procedimento  varchar(50),
 horario varchar(50),
-data varchar (50);
+data varchar (50),
 
 id_Medico int,
 
 id_Paciente int,
 
 FOREIGN KEY(id_Medico) 
-REFERENCES Medico(idMedico) 
+REFERENCES Medico(idMedico),
 
 FOREIGN KEY(id_Paciente) 
 REFERENCES Paciente(idPaciente) 
@@ -53,6 +47,13 @@ REFERENCES Paciente(idPaciente)
 );
 
 
-insert into administrador (login,senha) values ("admin","admin");
+
+insert into administrador (login,senha) values ('admin','admin');
 
 
+select agenda.horario,paciente.nome, medico.nome, agenda.procedimento, agenda.data from paciente,medico,agenda
+
+where idpaciente=Id_paciente and idMedico = id_medico;
+
+
+select login from administrador where =?

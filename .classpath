@@ -9,7 +9,7 @@
 	<classpathentry kind="lib" path="postgresql-42.2.5.jar"/>
 	<classpathentry kind="lib" path="mail.jar"/>
 	<classpathentry kind="lib" path="activation.jar"/>
-	<classpathentry kind="lib" path="C:/Users/lucas/Documents/novi/HospitalNator(av2)/jcalendar-1.4.jar"/>
 	<classpathentry kind="lib" path="caelum-stella-core-2.1.2.jar"/>
+	<classpathentry kind="lib" path="jcalendar-1.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
